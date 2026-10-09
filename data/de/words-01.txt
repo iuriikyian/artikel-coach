@@ -1,0 +1,64 @@
+meta:id:wörter-02
+meta:a:der die das
+
+# Himmel
+der Himmel
+die Luft
+die Wolke
+die Sonne
+der Stern
+der Mond
+der Planet
+
+# Erde
+die Erde
+der Boden
+das Land
+der Kontinent
+die Insel
+das Ufer
+die Küste
+der Strand
+
+# Wasser
+das Wasser
+das Meer
+der Ozean
+die Meerenge
+der Fluss
+der See
+der Sumpf
+der Teich
+die Pfütze
+der Bach
+die Quelle
+die Mündung
+die Stromung
+die Welle
+
+# Lage
+die Lage
+der Ort
+die Richtung
+das Ziel
+der Norden
+der Süden
+der Osten
+der Westen
+die Karte
+der Kompass
+
+# Zone
+die Zone
+der Wald
+die Wiese
+die Steppe
+die Wüste
+der Berg
+der Hügel
+der Gipfel
+die Spitze
+die Ebene
+das Feld
+das Tal
+das Relief

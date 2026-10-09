@@ -1,0 +1,23 @@
+meta:id:wordset-1
+meta:a:der die das
+# Wörte
+das Mädchen
+der Junge
+die Butter
+der Joghurt
+das Ketchup
+die E-Mail
+der See
+die See
+das Moment
+der Moment
+die Nutella
+der Laptop
+das Foto
+die Nummer
+der Fehler
+das Problem
+die Entscheidung
+der Kommentar
+das Schild
+die Erlaubnis
